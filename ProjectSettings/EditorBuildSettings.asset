@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startSeit.unity
+    guid: e34a2ce7fe1e2444ebc8718d1f381526
+  - enabled: 1
+    path: Assets/Scenes/fro1.unity
+    guid: 421ae776528c8de4a8df5345878e965f
+  - enabled: 1
+    path: Assets/Scenes/fro2.unity
+    guid: 4d7e17acac08fed4e99fa79ebdc0db08
+  - enabled: 1
+    path: Assets/Scenes/fro3.unity
+    guid: 8ad069433de9b5f4eb99987151ecee0b
+  - enabled: 1
+    path: Assets/Scenes/fro4.unity
+    guid: 72563e509c3b33949bf39f7ad8a0c378
+  - enabled: 1
+    path: Assets/Scenes/fro5.unity
+    guid: 3a932606ca67f4849806c7bf71918010
+  - enabled: 1
+    path: Assets/Scenes/fro6.unity
+    guid: 9feaeae28f483ac47b5f3c3d730c0c94
+  - enabled: 1
+    path: Assets/Scenes/fro7.unity
+    guid: a48aa856a5c158f4f8b82d47fb4ebb1b
+  - enabled: 1
+    path: Assets/Scenes/fro8.unity
+    guid: 6efba84ebc4756649bc24242e0a8e052
+  - enabled: 1
+    path: Assets/Scenes/fro9.unity
+    guid: cc3e245666273cb43b0863fa2499c162
+  - enabled: 1
+    path: Assets/Scenes/fro10.unity
+    guid: f8894d57c5821264a85d8ecbfc32b6c7
+  - enabled: 1
+    path: Assets/Scenes/fro11.unity
+    guid: bd72af6159f508843ac6970ff9f437f1
+  - enabled: 1
+    path: Assets/Scenes/fro12.unity
+    guid: 8c2887effa7516c458992a4eafd50135
+  - enabled: 1
+    path: Assets/Scenes/fro13.unity
+    guid: 19c095ca8c8968f4384f18c0e6e38a96
+  - enabled: 1
+    path: Assets/Scenes/fro14.unity
+    guid: 99100f0b7d6a0d44fb238c1590f4245e
+  - enabled: 1
+    path: Assets/Scenes/fro15.unity
+    guid: d7517b5171dfd154a90cd2a11fe7eff0
+  - enabled: 1
+    path: Assets/Scenes/fro16.unity
+    guid: 2ae50c98226e4404e8ecb9732a49b730
+  - enabled: 0
+    path: Assets/Scenes/Ferdeg.unity
+    guid: 796593cb023416e428d7e376519c2c86
+  m_configObjects: {}
